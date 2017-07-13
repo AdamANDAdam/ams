@@ -22,3 +22,18 @@ try{Typekit.load({ async: true });}catch(e){}
 
             }
         });
+
+
+function displayDate() {
+    var d = new Date();
+    var c = "Adam";
+    
+document.getElementById("demo").innerHTML = d.toDateString();
+
+}
+
+function displayDate1() {
+   
+    var c = "surmiak.adam@gmail.com";
+document.getElementById("demo1").innerHTML = c;
+}
