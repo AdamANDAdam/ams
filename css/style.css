@@ -171,7 +171,11 @@ html, body {
     margin-left: -37%;
     margin-bottom: 50px;
     margin-top: -200px;
-}
+    font-weight: bold;
+    z-index: 2;
+    font-size: 20px;
+
+  }
 @media screen and (max-width: 990px){
 	#wraptheform{
 		margin-top: -100px;
@@ -476,3 +480,7 @@ a:hover {
   opacity: 1;
   right: 0;
 }
+
+
+
+/*=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=*/

@@ -34,6 +34,6 @@ document.getElementById("demo").innerHTML = d.toDateString();
 
 function displayDate1() {
    
-    var c = "surmiak.adam@gmail.com";
+    var c = "surmiak.adam@gmail.com +61 431125222";
 document.getElementById("demo1").innerHTML = c;
 }
